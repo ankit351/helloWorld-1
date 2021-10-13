@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello world</title>
+</head>
+<body bgcolor="green">
+
+<h1>Add your Heading 1</h1>
+<p style="color:red"> add your paragraph</p>
+
+</body>
+</html>
